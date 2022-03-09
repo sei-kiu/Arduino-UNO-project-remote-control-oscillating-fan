@@ -9,3 +9,5 @@ Hardware required
 Libraries used
 - https://github.com/Seeed-Studio/Seeed_Arduino_IRSendRev/releases/tag/v2.6.1
 - https://github.com/arduino-libraries/Servo/releases/tag/1.1.8
+
+This project uses a IR remote to control a fan.
